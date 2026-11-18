@@ -1,0 +1,15 @@
+# Материалы к защите и генераторы
+_defense/
+*Защита*
+*речь*
+*вопросы*
+
+# Шаблоны оформления
+Titulny_list_otcheta.doc
+Trebovania_k_oformleniyu_otcheta.rtf
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
